@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">contact_app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="job">Job Title</string>
+    <string name="organisation">Organisation</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="add_field_button">Add Fields</string>
+    <string name="save_contact_button">Save Contact</string>
+    <string name="start_filter">Filter</string>
+    <string name="start_edit">Start Editing</string>
+    <string name="stop_edit">Stop Editing</string>
+    <string name="qr_code">QR Code</string>
+    <string name="read_qr_code">Read QR Code</string>
+    <string name="upload_backup">Upload Current Database</string>
+    <string name="restore">Restore</string>
+    <string name="restore_backup">Are you sure you want to restore to this backUp: </string>
+    <string name="backup">BackUps</string>
+</resources>
